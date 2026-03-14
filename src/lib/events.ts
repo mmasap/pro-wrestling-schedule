@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs";
+import { readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { load } from "js-yaml";
 import type { Event } from "../types/event";
@@ -10,7 +10,8 @@ function loadYaml(filename: string): Event[] {
 }
 
 export function getAllEvents(): Event[] {
-	const files = ["njpw_2026.yaml"];
+	const dir = join(process.cwd(), "data", "events");
+	const files = readdirSync(dir).filter((f) => f.endsWith(".yaml"));
 	return files.flatMap(loadYaml).sort((a, b) => a.date.localeCompare(b.date));
 }
 

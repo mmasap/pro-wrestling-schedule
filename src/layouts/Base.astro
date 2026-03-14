@@ -3,8 +3,18 @@ import "../styles/global.css";
 
 interface Props {
 	title?: string;
+	description?: string;
+	canonicalURL?: string;
 }
-const { title = "プロレス興行スケジュール" } = Astro.props;
+
+const {
+	title = "プロレス興行スケジュール",
+	description = "新日本プロレスなど日本のプロレス団体の興行スケジュールを検索・絞り込みできるサイトです。",
+	canonicalURL = Astro.url.href,
+} = Astro.props;
+
+const siteName = "プロレス興行スケジュール";
+const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
 ---
 
 <!doctype html>
@@ -12,7 +22,22 @@ const { title = "プロレス興行スケジュール" } = Astro.props;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title}</title>
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+
+    <!-- OGP -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:locale" content="ja_JP" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
   </head>
   <body class="bg-zinc-950 text-zinc-100 min-h-screen font-sans">
     <header class="bg-zinc-900 border-b border-zinc-700 px-6 py-4">

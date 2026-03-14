@@ -15,6 +15,7 @@
 	},
 	"dependencies": {
 		"@astrojs/preact": "^5.0.0",
+		"@astrojs/sitemap": "^3.7.1",
 		"@tailwindcss/vite": "^4.2.1",
 		"astro": "^6.0.4",
 		"js-yaml": "^4.1.1",

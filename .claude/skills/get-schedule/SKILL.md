@@ -3,14 +3,14 @@ name: get-schedule
 description: プロレスの興行スケジュールを取得するスキル
 ---
 
-このスキルは、プロレスの興行スケジュールを取得するためのものです。以下の手順で説明します。:
+このスキルは、今後の日本国内のプロレスの興行スケジュールを取得するためのものです。以下の手順で説明します。:
 
-1. 以下のサイトからスケジュールを取得します。
+1. 以下のサイトからスケジュールを取得します。引数で団体を指定できるようにします。
    - 新日本プロレス: https://www.njpw.co.jp/schedule
-   <!-- - 全日本プロレス: https://www.all-japan.co.jp/events
+   - 全日本プロレス: https://www.all-japan.co.jp/events
    - プロレスリング・ノア: https://www.noah.co.jp/schedule
-   - DDTプロレスリング: https://www.ddtpro.jp/schedules -->
-2. スケジュールのページから以下の情報を取得します。
+   - DDTプロレスリング: https://www.ddtpro.jp/schedules
+2. スケジュールのページから以下の情報を取得します。スケジュールページから取得できない場合は、興行の詳細ページから取得します。
    - 日付
    - 興行名
    - 会場

@@ -67,6 +67,17 @@ function todayStr(): string {
 	return `${y}-${m}-${d}`;
 }
 
+function getInitialPromotions(): Set<Promotion> {
+	const allKeys = Object.keys(PROMOTIONS) as Promotion[];
+	if (typeof window === "undefined") return new Set(allKeys);
+	const param = new URLSearchParams(window.location.search).get("promotion");
+	if (!param) return new Set(allKeys);
+	const selected = param
+		.split(",")
+		.filter((p): p is Promotion => allKeys.includes(p as Promotion));
+	return selected.length > 0 ? new Set(selected) : new Set(allKeys);
+}
+
 export default function EventFilter({ events }: Props) {
 	const today = todayStr();
 
@@ -76,7 +87,7 @@ export default function EventFilter({ events }: Props) {
 	);
 
 	const [selectedPromotions, setSelectedPromotions] = useState<Set<Promotion>>(
-		new Set(Object.keys(PROMOTIONS) as Promotion[]),
+		getInitialPromotions,
 	);
 	const [selectedYearMonth, setSelectedYearMonth] = useState("all");
 	const [selectedRegion, setSelectedRegion] = useState("all");
@@ -126,6 +137,15 @@ export default function EventFilter({ events }: Props) {
 		setSelectedPromotions((prev) => {
 			const next = new Set(prev);
 			next.has(p) ? next.delete(p) : next.add(p);
+			const allKeys = Object.keys(PROMOTIONS) as Promotion[];
+			const params = new URLSearchParams(window.location.search);
+			if (next.size === allKeys.length) {
+				params.delete("promotion");
+			} else {
+				params.set("promotion", [...next].join(","));
+			}
+			const qs = params.toString();
+			history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
 			return next;
 		});
 	}

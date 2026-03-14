@@ -1,0 +1,358 @@
+# NEW JAPAN CUP 2026
+- id: njpw-2026-0314
+  promotion: njpw
+  date: "2026-03-14"
+  name: "NEW JAPAN CUP 2026"
+  venue: 名古屋金城ふ頭アリーナ
+  prefecture: 愛知
+  startTime: "17:00"
+  url: https://www.njpw.co.jp/tournament/card/621409
+
+- id: njpw-2026-0315
+  promotion: njpw
+  date: "2026-03-15"
+  name: "NEW JAPAN CUP 2026"
+  venue: アイメッセ山梨
+  prefecture: 山梨
+  startTime: "15:00"
+  url: https://www.njpw.co.jp/tournament/card/621410
+
+- id: njpw-2026-0317
+  promotion: njpw
+  date: "2026-03-17"
+  name: "NEW JAPAN CUP 2026"
+  venue: ビッグパレットふくしま
+  prefecture: 福島
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/card/621411
+
+- id: njpw-2026-0320
+  promotion: njpw
+  date: "2026-03-20"
+  name: "NEW JAPAN CUP 2026"
+  venue: アオーレ長岡
+  prefecture: 新潟
+  startTime: "17:00"
+  url: https://www.njpw.co.jp/tournament/card/621412
+
+- id: njpw-2026-0321
+  promotion: njpw
+  date: "2026-03-21"
+  name: "NEW JAPAN CUP 2026 FINAL"
+  venue: アオーレ長岡
+  prefecture: 新潟
+  startTime: "15:00"
+  url: https://www.njpw.co.jp/tournament/card/621413
+
+# Road to SAKURA GENESIS 2026
+- id: njpw-2026-0328
+  promotion: njpw
+  date: "2026-03-28"
+  name: "Road to SAKURA GENESIS 2026"
+  venue: リリーアリーナMITO
+  prefecture: 茨城
+  startTime: "16:00"
+  url: https://www.njpw.co.jp/tournament/624060
+
+- id: njpw-2026-0329
+  promotion: njpw
+  date: "2026-03-29"
+  name: "Road to SAKURA GENESIS 2026"
+  venue: アクトシティ浜松
+  prefecture: 静岡
+  startTime: "15:00"
+  url: https://www.njpw.co.jp/tournament/624063
+
+- id: njpw-2026-0330
+  promotion: njpw
+  date: "2026-03-30"
+  name: "Road to SAKURA GENESIS 2026"
+  venue: ツインメッセ静岡 北館
+  prefecture: 静岡
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/624064
+
+- id: njpw-2026-0401
+  promotion: njpw
+  date: "2026-04-01"
+  name: "Road to SAKURA GENESIS 2026"
+  venue: 長野県立武道館
+  prefecture: 長野
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/627098
+
+- id: njpw-2026-0402
+  promotion: njpw
+  date: "2026-04-02"
+  name: "Road to SAKURA GENESIS 2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/card/624065
+
+# SAKURA GENESIS 2026
+- id: njpw-2026-0404
+  promotion: njpw
+  date: "2026-04-04"
+  name: "SAKURA GENESIS 2026"
+  venue: 両国国技館
+  prefecture: 東京
+  startTime: "16:00"
+  url: https://www.njpw.co.jp/tournament/card/624066
+
+# DEATH VEGAS INVITACIONAL
+- id: njpw-2026-0416
+  promotion: njpw
+  date: "2026-04-16"
+  name: "DEATH VEGAS INVITACIONAL"
+  venue: THE HORSESHOE
+  prefecture: null
+  startTime: null
+  url: https://www.njpw.co.jp/tournament/622763
+
+# Road to レスリングどんたく 2026
+- id: njpw-2026-0419
+  promotion: njpw
+  date: "2026-04-19"
+  name: "Road to レスリングどんたく 2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/627669
+
+- id: njpw-2026-0420
+  promotion: njpw
+  date: "2026-04-20"
+  name: "Road to レスリングどんたく 2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/627673
+
+- id: njpw-2026-0424
+  promotion: njpw
+  date: "2026-04-24"
+  name: "Road to レスリングどんたく 2026"
+  venue: テクスポート今治
+  prefecture: 愛媛
+  startTime: "19:00"
+  url: https://www.njpw.co.jp/tournament/627675
+
+- id: njpw-2026-0425
+  promotion: njpw
+  date: "2026-04-25"
+  name: "WRESTLING REDZONE in HIROSHIMA"
+  venue: 広島サンプラザホール
+  prefecture: 広島
+  startTime: "17:00"
+  url: https://www.njpw.co.jp/tournament/627681
+
+- id: njpw-2026-0426
+  promotion: njpw
+  date: "2026-04-26"
+  name: "Road to レスリングどんたく 2026"
+  venue: KDDI維新ホール
+  prefecture: 山口
+  startTime: "17:00"
+  url: https://www.njpw.co.jp/tournament/627676
+
+- id: njpw-2026-0427
+  promotion: njpw
+  date: "2026-04-27"
+  name: "Road to レスリングどんたく 2026"
+  venue: バタフライアリーナ（柳井市体育館）
+  prefecture: 山口
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/627677
+
+- id: njpw-2026-0429
+  promotion: njpw
+  date: "2026-04-29"
+  name: "Road to レスリングどんたく 2026 ～レスリング肥前の国～"
+  venue: SAGAアリーナ
+  prefecture: 佐賀
+  startTime: "17:00"
+  url: https://www.njpw.co.jp/tournament/627682
+
+- id: njpw-2026-0430
+  promotion: njpw
+  date: "2026-04-30"
+  name: "Road to レスリングどんたく 2026"
+  venue: グランメッセ熊本
+  prefecture: 熊本
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/627678
+
+- id: njpw-2026-0501
+  promotion: njpw
+  date: "2026-05-01"
+  name: "Road to レスリングどんたく 2026"
+  venue: ビーラインスポーツパーク姶良（姶良市総合運動公園体育館）
+  prefecture: 鹿児島
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/627679
+
+# レスリングどんたく 2026
+- id: njpw-2026-0503
+  promotion: njpw
+  date: "2026-05-03"
+  name: "レスリングどんたく 2026"
+  venue: 福岡国際センター
+  prefecture: 福岡
+  startTime: "18:00"
+  url: https://www.njpw.co.jp/tournament/627683
+
+- id: njpw-2026-0504
+  promotion: njpw
+  date: "2026-05-04"
+  name: "レスリングどんたく 2026"
+  venue: 福岡国際センター
+  prefecture: 福岡
+  startTime: "15:00"
+  url: https://www.njpw.co.jp/tournament/627684
+
+- id: njpw-2026-0506
+  promotion: njpw
+  date: "2026-05-06"
+  name: "NEW JAPAN ROAD in KARATSU"
+  venue: 唐津市文化体育館
+  prefecture: 佐賀
+  startTime: "17:00"
+  url: https://www.njpw.co.jp/tournament/627685
+
+# セキチュー Presents BEST OF THE SUPER Jr.33
+- id: njpw-2026-0514
+  promotion: njpw
+  date: "2026-05-14"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/reserve/632085/
+
+- id: njpw-2026-0516
+  promotion: njpw
+  date: "2026-05-16"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: エスフォルタアリーナ八王子
+  prefecture: 東京
+  startTime: "18:00"
+  url: https://www.njpw.co.jp/tournament/632086
+
+- id: njpw-2026-0517
+  promotion: njpw
+  date: "2026-05-17"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: 国立代々木競技場 第二体育館
+  prefecture: 東京
+  startTime: "17:00"
+  url: https://www.njpw.co.jp/tournament/632096
+
+- id: njpw-2026-0520
+  promotion: njpw
+  date: "2026-05-20"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/632098
+
+- id: njpw-2026-0522
+  promotion: njpw
+  date: "2026-05-22"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: 大阪市中央体育館 サブアリーナ（Asueアリーナ大阪）
+  prefecture: 大阪
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/632099
+
+- id: njpw-2026-0523
+  promotion: njpw
+  date: "2026-05-23"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: アクリエひめじ
+  prefecture: 兵庫
+  startTime: "17:00"
+  url: https://www.njpw.co.jp/tournament/reserve/632102/
+
+- id: njpw-2026-0524
+  promotion: njpw
+  date: "2026-05-24"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: KBSホール
+  prefecture: 京都
+  startTime: "15:00"
+  url: https://www.njpw.co.jp/tournament/632106
+
+- id: njpw-2026-0527
+  promotion: njpw
+  date: "2026-05-27"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: キラメッセぬまづ
+  prefecture: 静岡
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/reserve/632107/
+
+- id: njpw-2026-0529
+  promotion: njpw
+  date: "2026-05-29"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: 燕市民体育館
+  prefecture: 新潟
+  startTime: "18:30"
+  url: https://www.njpw.co.jp/tournament/632108
+
+- id: njpw-2026-0530
+  promotion: njpw
+  date: "2026-05-30"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: 高岡テクノドーム
+  prefecture: 富山
+  startTime: "15:00"
+  url: https://www.njpw.co.jp/tournament/632109
+
+- id: njpw-2026-0602
+  promotion: njpw
+  date: "2026-06-02"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: null
+  url: https://www.njpw.co.jp/tournament/632114
+
+- id: njpw-2026-0603
+  promotion: njpw
+  date: "2026-06-03"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: null
+  url: https://www.njpw.co.jp/tournament/632115
+
+- id: njpw-2026-0605
+  promotion: njpw
+  date: "2026-06-05"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: Gメッセ群馬
+  prefecture: 群馬
+  startTime: null
+  url: https://www.njpw.co.jp/tournament/632116
+
+- id: njpw-2026-0607
+  promotion: njpw
+  date: "2026-06-07"
+  name: "セキチュー Presents BEST OF THE SUPER Jr.33"
+  venue: 大田区総合体育館
+  prefecture: 東京
+  startTime: "17:00"
+  url: https://www.njpw.co.jp/tournament/632117
+
+# DOMINION 6.14 in OSAKA-JO HALL
+- id: njpw-2026-0614
+  promotion: njpw
+  date: "2026-06-14"
+  name: "DOMINION 6.14 in OSAKA-JO HALL"
+  venue: 大阪城ホール
+  prefecture: 大阪
+  startTime: "16:00"
+  url: https://www.njpw.co.jp/tournament/635006

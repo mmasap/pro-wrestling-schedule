@@ -1,0 +1,27 @@
+---
+import '../styles/global.css'
+
+interface Props {
+  title?: string
+}
+const { title = 'プロレス興行スケジュール' } = Astro.props
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+  </head>
+  <body class="bg-zinc-950 text-zinc-100 min-h-screen font-sans">
+    <header class="bg-zinc-900 border-b border-zinc-700 px-6 py-4">
+      <div class="max-w-6xl mx-auto">
+        <h1 class="text-xl font-bold tracking-wide">🤼 プロレス興行スケジュール</h1>
+      </div>
+    </header>
+    <main class="max-w-6xl mx-auto px-4 py-6">
+      <slot />
+    </main>
+  </body>
+</html>

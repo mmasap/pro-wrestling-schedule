@@ -1,0 +1,270 @@
+# 全日本プロレス 2026年スケジュール
+- id: ajpw-2026-0315
+  promotion: ajpw
+  date: "2026-03-15"
+  name: "ドリームパワーシリーズ2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "11:30"
+  url: https://www.all-japan.co.jp/events/9589/
+
+- id: ajpw-2026-0320
+  promotion: ajpw
+  date: "2026-03-20"
+  name: "ドリームパワーシリーズ2026 〜めだかやドットコムpresents〜"
+  venue: エスフォルタアリーナ八王子 メインアリーナ
+  prefecture: 東京
+  startTime: "15:00"
+  url: https://www.all-japan.co.jp/events/9736/
+
+- id: ajpw-2026-0321a
+  promotion: ajpw
+  date: "2026-03-21"
+  name: "MUSASHI参戦｜みちのくプロレス33周年記念～陸奥春闘～"
+  venue: 矢巾町民総合体育館
+  prefecture: 岩手
+  startTime: "17:00"
+  url: https://www.all-japan.co.jp/events/9572/
+
+- id: ajpw-2026-0321b
+  promotion: ajpw
+  date: "2026-03-21"
+  name: "ドリームパワーシリーズ2026〜安中市合併20周年記念事業 安齊勇馬凱旋大会〜"
+  venue: 安中しんくみスポーツセンター
+  prefecture: 群馬
+  startTime: "15:00"
+  url: https://www.all-japan.co.jp/events/9221/
+
+- id: ajpw-2026-0322
+  promotion: ajpw
+  date: "2026-03-22"
+  name: "MUSASHI参戦｜みちのくプロレス33周年記念～陸奥春闘～"
+  venue: 仙台市泉区仙台ヒルズホテルみちのくホール
+  prefecture: 宮城
+  startTime: "13:00"
+  url: https://www.all-japan.co.jp/events/10770/
+
+- id: ajpw-2026-0403
+  promotion: ajpw
+  date: "2026-04-03"
+  name: "ゼンニチ春のファンまつり2026〜Road to チャンピオン・カーニバル〜"
+  venue: 新木場1stRING
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.all-japan.co.jp/events/10460/
+
+- id: ajpw-2026-0412
+  promotion: ajpw
+  date: "2026-04-12"
+  name: "チャンピオン・カーニバル2026【開幕戦】"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.all-japan.co.jp/events/9590/
+
+- id: ajpw-2026-0418
+  promotion: ajpw
+  date: "2026-04-18"
+  name: "チャンピオン・カーニバル2026"
+  venue: 名古屋金城ふ頭アリーナ メインアリーナ
+  prefecture: 愛知
+  startTime: "15:00"
+  url: https://www.all-japan.co.jp/events/10058/
+
+- id: ajpw-2026-0419
+  promotion: ajpw
+  date: "2026-04-19"
+  name: "チャンピオン・カーニバル2026 〜株式会社ファンテックpresents〜"
+  venue: 梅田スカイビル ステラホール
+  prefecture: 大阪
+  startTime: "14:00"
+  url: https://www.all-japan.co.jp/events/10060/
+
+- id: ajpw-2026-0423
+  promotion: ajpw
+  date: "2026-04-23"
+  name: "チャンピオン・カーニバル2026"
+  venue: 新宿FACE
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.all-japan.co.jp/events/10458/
+
+- id: ajpw-2026-0425
+  promotion: ajpw
+  date: "2026-04-25"
+  name: "チャンピオン・カーニバル2026"
+  venue: 春日部ふれあいキューブ
+  prefecture: 埼玉
+  startTime: "13:00"
+  url: https://www.all-japan.co.jp/events/10062/
+
+- id: ajpw-2026-0426
+  promotion: ajpw
+  date: "2026-04-26"
+  name: "チャンピオン・カーニバル2026"
+  venue: 三条市厚生福祉会館
+  prefecture: 新潟
+  startTime: "13:00"
+  url: https://www.all-japan.co.jp/events/10234/
+
+- id: ajpw-2026-0502
+  promotion: ajpw
+  date: "2026-05-02"
+  name: "チャンピオン・カーニバル2026 〜ステーキハウス寿楽presents〜"
+  venue: 南東北総合卸センター
+  prefecture: 福島
+  startTime: "13:00"
+  url: https://www.all-japan.co.jp/events/10063/
+
+- id: ajpw-2026-0503
+  promotion: ajpw
+  date: "2026-05-03"
+  name: "チャンピオン・カーニバル2026 〜ステーキハウス寿楽presents〜"
+  venue: ライトキューブ宇都宮
+  prefecture: 栃木
+  startTime: "13:00"
+  url: https://www.all-japan.co.jp/events/10065/
+
+- id: ajpw-2026-0505
+  promotion: ajpw
+  date: "2026-05-05"
+  name: "チャンピオン・カーニバル2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.all-japan.co.jp/events/9591/
+
+- id: ajpw-2026-0517
+  promotion: ajpw
+  date: "2026-05-17"
+  name: "チャンピオン・カーニバル2026【優勝決定戦】"
+  venue: 大田区総合体育館
+  prefecture: 東京
+  startTime: "14:00"
+  url: https://www.all-japan.co.jp/events/9907/
+
+- id: ajpw-2026-0529
+  promotion: ajpw
+  date: "2026-05-29"
+  name: "スーパーパワーシリーズ2026"
+  venue: 新木場1stRING
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.all-japan.co.jp/events/10668/
+
+- id: ajpw-2026-0531
+  promotion: ajpw
+  date: "2026-05-31"
+  name: "スーパーパワーシリーズ2026"
+  venue: 古河市イーエス中央運動公園はなもも体育館
+  prefecture: 茨城
+  startTime: "14:00"
+  url: https://www.all-japan.co.jp/events/10781/
+
+- id: ajpw-2026-0606
+  promotion: ajpw
+  date: "2026-06-06"
+  name: "スーパーパワーシリーズ2026"
+  venue: NIKKOアリーナかくだ（角田市総合体育館）
+  prefecture: 宮城
+  startTime: "14:00"
+  url: https://www.all-japan.co.jp/events/10642/
+
+- id: ajpw-2026-0607
+  promotion: ajpw
+  date: "2026-06-07"
+  name: "スーパーパワーシリーズ2026"
+  venue: 山形国際交流プラザ 山形ビッグウイング
+  prefecture: 山形
+  startTime: "17:00"
+  url: https://www.all-japan.co.jp/events/10782/
+
+- id: ajpw-2026-0611
+  promotion: ajpw
+  date: "2026-06-11"
+  name: "スーパーパワーシリーズ2026"
+  venue: 新宿FACE
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.all-japan.co.jp/events/10666/
+
+- id: ajpw-2026-0618
+  promotion: ajpw
+  date: "2026-06-18"
+  name: "スーパーパワーシリーズ2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.all-japan.co.jp/events/9592/
+
+- id: ajpw-2026-0719
+  promotion: ajpw
+  date: "2026-07-19"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: null
+  url: https://www.all-japan.co.jp/events/9593/
+
+- id: ajpw-2026-0809
+  promotion: ajpw
+  date: "2026-08-09"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: null
+  url: https://www.all-japan.co.jp/events/9594/
+
+- id: ajpw-2026-0829
+  promotion: ajpw
+  date: "2026-08-29"
+  name: null
+  venue: 大田区総合体育館
+  prefecture: 東京
+  startTime: null
+  url: https://www.all-japan.co.jp/events/9908/
+
+- id: ajpw-2026-0922
+  promotion: ajpw
+  date: "2026-09-22"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: null
+  url: https://www.all-japan.co.jp/events/9595/
+
+- id: ajpw-2026-1022
+  promotion: ajpw
+  date: "2026-10-22"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: null
+  url: https://www.all-japan.co.jp/events/9596/
+
+- id: ajpw-2026-1115
+  promotion: ajpw
+  date: "2026-11-15"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: null
+  url: https://www.all-japan.co.jp/events/9597/
+
+- id: ajpw-2026-1206
+  promotion: ajpw
+  date: "2026-12-06"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: null
+  url: https://www.all-japan.co.jp/events/9598/
+
+- id: ajpw-2026-1231
+  promotion: ajpw
+  date: "2026-12-31"
+  name: null
+  venue: 国立代々木競技場 第二体育館
+  prefecture: 東京
+  startTime: null
+  url: https://www.all-japan.co.jp/events/9909/

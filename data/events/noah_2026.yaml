@@ -1,0 +1,477 @@
+# プロレスリング・ノア 2026年スケジュール
+- id: noah-2026-0317
+  promotion: noah
+  date: "2026-03-17"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: 保土ヶ谷公会堂
+  prefecture: 神奈川
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/782/
+
+- id: noah-2026-0320
+  promotion: noah
+  date: "2026-03-20"
+  name: "FAL OFFICE Presents LETHAL ODYSSEY TOUR 2026"
+  venue: 神戸サンボーホール
+  prefecture: 兵庫
+  startTime: "16:00"
+  url: https://www.noah.co.jp/schedule/783/
+
+- id: noah-2026-0321
+  promotion: noah
+  date: "2026-03-21"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: KBSホール
+  prefecture: 京都
+  startTime: "17:00"
+  url: https://www.noah.co.jp/schedule/784/
+
+- id: noah-2026-0322
+  promotion: noah
+  date: "2026-03-22"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: 梅田スカイビル ステラホール
+  prefecture: 大阪
+  startTime: "12:00"
+  url: https://www.noah.co.jp/schedule/785/
+
+- id: noah-2026-0325
+  promotion: noah
+  date: "2026-03-25"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: 品川ステラボール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/786/
+
+- id: noah-2026-0327
+  promotion: noah
+  date: "2026-03-27"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: 新宿FACE
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/787/
+
+- id: noah-2026-0401
+  promotion: noah
+  date: "2026-04-01"
+  name: "LEGACY RISE 2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/788/
+
+- id: noah-2026-0404
+  promotion: noah
+  date: "2026-04-04"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: 東京たま未来メッセ
+  prefecture: 東京
+  startTime: "15:00"
+  url: https://www.noah.co.jp/schedule/809/
+
+- id: noah-2026-0405
+  promotion: noah
+  date: "2026-04-05"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: ふじさんめっせ
+  prefecture: 静岡
+  startTime: "17:00"
+  url: https://www.noah.co.jp/schedule/810/
+
+- id: noah-2026-0406
+  promotion: noah
+  date: "2026-04-06"
+  name: "UNIVERSE MAGIC 2026"
+  venue: 新宿FACE
+  prefecture: 東京
+  startTime: "19:00"
+  url: https://www.noah.co.jp/schedule/781/
+
+- id: noah-2026-0412
+  promotion: noah
+  date: "2026-04-12"
+  name: "APEX CONQUEST 2026 in NAGOYA"
+  venue: 名古屋金城ふ頭アリーナ
+  prefecture: 愛知
+  startTime: "16:00"
+  url: https://www.noah.co.jp/schedule/811/
+
+- id: noah-2026-0418
+  promotion: noah
+  date: "2026-04-18"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: 万代島多目的広場大かま
+  prefecture: 新潟
+  startTime: "17:30"
+  url: https://www.noah.co.jp/schedule/812/
+
+- id: noah-2026-0419
+  promotion: noah
+  date: "2026-04-19"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: Gメッセ群馬メインホール
+  prefecture: 群馬
+  startTime: "17:00"
+  url: https://www.noah.co.jp/schedule/813/
+
+- id: noah-2026-0424
+  promotion: noah
+  date: "2026-04-24"
+  name: "LEGACY RISE 2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/814/
+
+- id: noah-2026-0425
+  promotion: noah
+  date: "2026-04-25"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: 山形ビッグウイング
+  prefecture: 山形
+  startTime: "18:00"
+  url: https://www.noah.co.jp/schedule/815/
+
+- id: noah-2026-0426
+  promotion: noah
+  date: "2026-04-26"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: 仙台PIT
+  prefecture: 宮城
+  startTime: "16:00"
+  url: https://www.noah.co.jp/schedule/816/
+
+- id: noah-2026-0429
+  promotion: noah
+  date: "2026-04-29"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: 保土ヶ谷公会堂
+  prefecture: 神奈川
+  startTime: "17:00"
+  url: https://www.noah.co.jp/schedule/817/
+
+- id: noah-2026-0502
+  promotion: noah
+  date: "2026-05-02"
+  name: "SPRING MAYHEM RYOGOKU 2026"
+  venue: 両国国技館
+  prefecture: 東京
+  startTime: "15:00"
+  url: https://www.noah.co.jp/schedule/818/
+
+- id: noah-2026-0503
+  promotion: noah
+  date: "2026-05-03"
+  name: "AFTER MAYHEM 2026"
+  venue: 新宿FACE
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/819/
+
+- id: noah-2026-0505
+  promotion: noah
+  date: "2026-05-05"
+  name: "LEGACY RISE 2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "11:30"
+  url: https://www.noah.co.jp/schedule/820/
+
+- id: noah-2026-0513
+  promotion: noah
+  date: "2026-05-13"
+  name: "LEGACY RISE 2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/821/
+
+- id: noah-2026-0516
+  promotion: noah
+  date: "2026-05-16"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: 小瀬スポーツ公園体育館サブアリーナ
+  prefecture: 山梨
+  startTime: "17:00"
+  url: https://www.noah.co.jp/schedule/827/
+
+- id: noah-2026-0517
+  promotion: noah
+  date: "2026-05-17"
+  name: "LETHAL ODYSSEY TOUR 2026"
+  venue: Lives NAGOYA
+  prefecture: 愛知
+  startTime: "15:00"
+  url: https://www.noah.co.jp/schedule/822/
+
+- id: noah-2026-0518
+  promotion: noah
+  date: "2026-05-18"
+  name: "MONDAY MAGIC INSIDE OUT SEASON ep1"
+  venue: 新宿FACE
+  prefecture: 東京
+  startTime: "19:00"
+  url: https://www.noah.co.jp/schedule/824/
+
+- id: noah-2026-0523
+  promotion: noah
+  date: "2026-05-23"
+  name: "メルカリPresents NEO GLOBAL TAG LEAGUE 2026"
+  venue: KBSホール
+  prefecture: 京都
+  startTime: "17:00"
+  url: https://www.noah.co.jp/schedule/828/
+
+- id: noah-2026-0524
+  promotion: noah
+  date: "2026-05-24"
+  name: "メルカリPresents NEO GLOBAL TAG LEAGUE 2026"
+  venue: 梅田スカイビル ステラホール
+  prefecture: 大阪
+  startTime: "15:00"
+  url: https://www.noah.co.jp/schedule/829/
+
+- id: noah-2026-0525
+  promotion: noah
+  date: "2026-05-25"
+  name: "MONDAY MAGIC INSIDE OUT SEASON ep2"
+  venue: 新宿FACE
+  prefecture: 東京
+  startTime: "19:00"
+  url: https://www.noah.co.jp/schedule/825/
+
+- id: noah-2026-0526
+  promotion: noah
+  date: "2026-05-26"
+  name: "メルカリPresents NEO GLOBAL TAG LEAGUE 2026"
+  venue: ライトキューブ宇都宮
+  prefecture: 栃木
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/830/
+
+- id: noah-2026-0530
+  promotion: noah
+  date: "2026-05-30"
+  name: "メルカリPresents NEO GLOBAL TAG LEAGUE 2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/831/
+
+- id: noah-2026-0531
+  promotion: noah
+  date: "2026-05-31"
+  name: "メルカリPresents NEO GLOBAL TAG LEAGUE 2026"
+  venue: アオーレ長岡
+  prefecture: 新潟
+  startTime: "17:00"
+  url: https://www.noah.co.jp/schedule/832/
+
+- id: noah-2026-0602
+  promotion: noah
+  date: "2026-06-02"
+  name: "メルカリPresents NEO GLOBAL TAG LEAGUE 2026"
+  venue: 新宿FACE
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/833/
+
+- id: noah-2026-0603
+  promotion: noah
+  date: "2026-06-03"
+  name: "メルカリPresents NEO GLOBAL TAG LEAGUE 2026"
+  venue: 保土ヶ谷公会堂
+  prefecture: 神奈川
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/834/
+
+- id: noah-2026-0606
+  promotion: noah
+  date: "2026-06-06"
+  name: "メルカリPresents NEO GLOBAL TAG LEAGUE 2026"
+  venue: 秋田ふるさと村ドーム劇場
+  prefecture: 秋田
+  startTime: "15:00"
+  url: https://www.noah.co.jp/schedule/835/
+
+- id: noah-2026-0607
+  promotion: noah
+  date: "2026-06-07"
+  name: "メルカリPresents NEO GLOBAL TAG LEAGUE 2026"
+  venue: 河西体育センター
+  prefecture: 青森
+  startTime: "12:00"
+  url: https://www.noah.co.jp/schedule/836/
+
+- id: noah-2026-0608
+  promotion: noah
+  date: "2026-06-08"
+  name: "MONDAY MAGIC INSIDE OUT SEASON ep FINAL"
+  venue: 新宿FACE
+  prefecture: 東京
+  startTime: "19:00"
+  url: https://www.noah.co.jp/schedule/826/
+
+- id: noah-2026-0613
+  promotion: noah
+  date: "2026-06-13"
+  name: "メルカリPresents NEO GLOBAL TAG LEAGUE 2026"
+  venue: キラメッセぬまづ
+  prefecture: 静岡
+  startTime: "17:00"
+  url: https://www.noah.co.jp/schedule/837/
+
+- id: noah-2026-0615
+  promotion: noah
+  date: "2026-06-15"
+  name: "WRESTLE MAGIC 2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "19:00"
+  url: https://www.noah.co.jp/schedule/823/
+
+- id: noah-2026-0616
+  promotion: noah
+  date: "2026-06-16"
+  name: "メルカリPresents NEO GLOBAL TAG LEAGUE 2026"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/838/
+
+- id: noah-2026-0620
+  promotion: noah
+  date: "2026-06-20"
+  name: "Eitaデビュー15周年記念大会"
+  venue: 上松町公民館
+  prefecture: 長野
+  startTime: "16:30"
+  url: https://www.noah.co.jp/schedule/769/
+
+- id: noah-2026-0625
+  promotion: noah
+  date: "2026-06-25"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/799/
+
+- id: noah-2026-0705
+  promotion: noah
+  date: "2026-07-05"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "11:30"
+  url: https://www.noah.co.jp/schedule/800/
+
+- id: noah-2026-0718
+  promotion: noah
+  date: "2026-07-18"
+  name: "SUMMER EPIC2026"
+  venue: インテックス大阪
+  prefecture: 大阪
+  startTime: null
+  url: https://www.noah.co.jp/schedule/791/
+
+- id: noah-2026-0809
+  promotion: noah
+  date: "2026-08-09"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/801/
+
+- id: noah-2026-0810
+  promotion: noah
+  date: "2026-08-10"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/802/
+
+- id: noah-2026-0823
+  promotion: noah
+  date: "2026-08-23"
+  name: "KAWASAKI SUMMER VOYAGE 2026"
+  venue: カルッツかわさき
+  prefecture: 神奈川
+  startTime: null
+  url: https://www.noah.co.jp/schedule/743/
+
+- id: noah-2026-0912
+  promotion: noah
+  date: "2026-09-12"
+  name: "N-1 VICTORY 2026 開幕戦"
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/792/
+
+- id: noah-2026-0923
+  promotion: noah
+  date: "2026-09-23"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/803/
+
+- id: noah-2026-1004
+  promotion: noah
+  date: "2026-10-04"
+  name: "N-1 VICTORY 2026 決勝戦"
+  venue: 国立代々木競技場第二体育館
+  prefecture: 東京
+  startTime: null
+  url: https://www.noah.co.jp/schedule/793/
+
+- id: noah-2026-1015
+  promotion: noah
+  date: "2026-10-15"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/804/
+
+- id: noah-2026-1109
+  promotion: noah
+  date: "2026-11-09"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/805/
+
+- id: noah-2026-1128
+  promotion: noah
+  date: "2026-11-28"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/806/
+
+- id: noah-2026-1206
+  promotion: noah
+  date: "2026-12-06"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/807/
+
+- id: noah-2026-1218
+  promotion: noah
+  date: "2026-12-18"
+  name: null
+  venue: 後楽園ホール
+  prefecture: 東京
+  startTime: "18:30"
+  url: https://www.noah.co.jp/schedule/808/

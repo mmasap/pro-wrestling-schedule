@@ -12,7 +12,14 @@ function loadYaml(filename: string): Event[] {
 export function getAllEvents(): Event[] {
 	const dir = join(process.cwd(), "data", "events");
 	const files = readdirSync(dir).filter((f) => f.endsWith(".yaml"));
-	return files.flatMap(loadYaml).sort((a, b) => a.date.localeCompare(b.date));
+	return files.flatMap(loadYaml).sort((a, b) => {
+		const dateCmp = a.date.localeCompare(b.date);
+		if (dateCmp !== 0) return dateCmp;
+		if (a.startTime === b.startTime) return 0;
+		if (a.startTime === null) return -1;
+		if (b.startTime === null) return 1;
+		return a.startTime.localeCompare(b.startTime);
+	});
 }
 
 export function getUniquePrefectures(events: Event[]): string[] {
